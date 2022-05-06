@@ -9,6 +9,10 @@
 - `Security` in case of vulnerabilities. -->
 
 
-## [1.0.0] - 2022-05-03
+## [1.0.0] - 2022-05-06
+
+### Added
+
+- Placeholder Icons
 
 [1.0.0]: https://github.com/scriptjumper/Java-Chess-Engine/releases/tag/v-1.0.0
