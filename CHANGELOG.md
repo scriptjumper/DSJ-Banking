@@ -15,5 +15,6 @@
 
 - Placeholder Icons
 - Authentication View
+- Account Creation View
 
 [1.0.0]: https://github.com/scriptjumper/Java-Chess-Engine/releases/tag/v-1.0.0
