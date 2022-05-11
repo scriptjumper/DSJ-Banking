@@ -9,7 +9,7 @@
 - `Security` in case of vulnerabilities. -->
 
 
-## [1.0.0] - 2022-05-07
+## [1.0.0] - 2022-05-11
 
 ### Added
 
